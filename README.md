@@ -55,14 +55,16 @@ Top Suggestions: ['cat', 'cap', 'car']
 
 ## 📁 Project Structure
 
+```
 braille-autocorrect/
 ├── main.py # Main script to run the system
 ├── braille_mapping.py # Key-to-dot and dot-to-letter mapping
-├── dictionary_loader.py # Loads and converts dictionary to Braille combos
+├── dictionary_loader.py # Loads and converts the dictionary to Braille combos
 ├── autocorrect.py # Levenshtein-based suggestion engine
 ├── resources/
 │ └── words.txt # English word dictionary
 ├── README.md # This file
+```
 
 ---
 
