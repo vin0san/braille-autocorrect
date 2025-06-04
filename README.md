@@ -72,7 +72,7 @@ braille-autocorrect/
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/braille-autocorrect.git
+git clone https://github.com/vin0san/braille-autocorrect.git
 cd braille-autocorrect
 ```
 2. Run the program:
